@@ -7,7 +7,7 @@
 [![Release](https://img.shields.io/github/v/release/MediaCollector/MediaCollector-Screenshotter?style=for-the-badge&logo=github&color=2da44e)](https://github.com/MediaCollector/MediaCollector-Screenshotter/releases)
 [![Stars](https://img.shields.io/github/stars/MediaCollector/MediaCollector-Screenshotter?style=for-the-badge&logo=github&color=e3b341)](https://github.com/MediaCollector/MediaCollector-Screenshotter/stargazers)
 [![Issues](https://img.shields.io/github/issues/MediaCollector/MediaCollector-Screenshotter?style=for-the-badge&logo=github&color=f85149)](https://github.com/MediaCollector/MediaCollector-Screenshotter/issues)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-D22128.svg?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
 
 </div>
 
